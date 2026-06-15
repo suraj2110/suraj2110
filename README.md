@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Suraj Sanjay
 
 🎓 Master's Student in Computer Science & Engineering at Santa Clara University
+
 🔐 Aspiring Cybersecurity Analyst | 📊 Data Analyst | 🤖 AI Engineer
+
 📍 Santa Clara, California
 
 ---
