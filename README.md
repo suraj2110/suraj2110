@@ -10,14 +10,16 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science graduate student with nearly 4 years of experience at CAPGEMINI supporting enterprise-scale Oracle environments, automating business processes, building AI-driven solutions, and improving operational resilience.
-
-My interests lie at the intersection of:
+I'm a Computer Science graduate student with nearly 4 years of experience at CAPGEMINI supporting enterprise-scale Oracle environments, automating business processes, building AI-driven solutions, and improving operational resilience. My interests lie at the intersection of:
 
 🔐 Cybersecurity & Threat Intelligence
+
 📊 Data Analytics & Business Intelligence
+
 🤖 Agentic AI & Multi-Agent Systems
+
 ☁️ Cloud Infrastructure & Automation
+
 🌐 IoT Security & Edge Computing
 
 I enjoy building solutions that transform complex operational challenges into scalable, secure, data-driven systems.
