@@ -4,13 +4,13 @@
 
 🔐 Aspiring Cybersecurity Analyst | 📊 Data Analyst | 🤖 AI Engineer
 
-📍 Santa Clara, California
+📍 Santa Clara, California | Actively looking for Internships and Full time Opportunities
 
 ---
 
 ## 🚀 About Me
 
-I'm a Computer Science graduate student with nearly 4 years of experience supporting enterprise-scale Oracle environments, automating business processes, building AI-driven solutions, and improving operational resilience.
+I'm a Computer Science graduate student with nearly 4 years of experience at CAPGEMINI supporting enterprise-scale Oracle environments, automating business processes, building AI-driven solutions, and improving operational resilience.
 
 My interests lie at the intersection of:
 
@@ -52,43 +52,6 @@ I enjoy building solutions that transform complex operational challenges into sc
 * Reporting Automation
 * Data-Driven Decision Making
 
----
-
-## 🧠 Featured Projects
-
-### 🔥 Enterprise Copilot using Agentic AI
-
-Built a multi-agent cyber defense platform leveraging MCP, LLMs, AI/ML anomaly detection, threat intelligence, security analytics, incident response workflows, stateful orchestration, RBAC, audit logging, zero-trust communication, automated threat management.
-
-### 🎖️ IoT-Based Smart Military Vest
-
-Designed a secure IoT wearable integrating encrypted telemetry, secure boot validation, authentication mechanisms, endpoint security controls, OTA security, real-time monitoring, mission-critical communications.
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-Python • SQL • PL/SQL • C • C++ • R
-
-### Cybersecurity
-
-SOC Operations • Threat Intelligence • SIEM • Security Monitoring • IAM • RBAC • Risk Assessment • Vulnerability Management • Security Analytics
-
-### Data & Analytics
-
-SQL • Data Analytics • Tableau • Power BI • Data Visualization • KPI Reporting • Statistical Analysis • Predictive Analytics
-
-### AI & Automation
-
-Agentic AI • MCP • Multi-Agent Systems • LLM Integration • Workflow Automation • UiPath • Python Automation
-
-### Cloud & Enterprise
-
-Oracle EBS R12 • Oracle Cloud Infrastructure (OCI) • ServiceNow • Automic Application Manager
-
----
 
 ## 🌱 Currently Learning
 
